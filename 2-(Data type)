@@ -1,0 +1,12 @@
+// #Day2 on Data Type
+
+#include <stdio.h>
+
+int main(){
+  printf("int: %1d /n", sizeof(int));
+  printf("float: %1d /n", sizeof(float));
+  printf("double: %1d /n", sizeof(double));
+  printf("char: %1d /n", sizeof(char));
+
+  return 0;
+}
